@@ -12,7 +12,8 @@ Information for use across projects in the Adventures-In organisation.
 - [flireator: A project creation tool for Flutter projects with a Firebase backend, stored on GitHub.](https://github.com/Adventures-In/flireator) 
 
 ## Member's Projects 
-- 
+- [nickmeinhold/crowdleague: Crowdsource your sports leagues.](https://github.com/nickmeinhold/crowdleague) 
+- [tamari-gray/niira](https://github.com/tamari-gray/niira)
 
 ## Currently Inactive (feel free to take over!) 
 - [podcustard: Enjoy your podcasts right here.](https://github.com/Adventures-In/podcustard) 
