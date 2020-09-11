@@ -1,5 +1,7 @@
 # Adventures-In
-Information for use across projects in the Adventures-In organisation.
+Information for projects in the Adventures-In organisation.
+
+Join us at a [Meetup](https://www.meetup.com/Adventures-in-Flutter-Firebase) or chat on our [Discourse](https://discourse.adventuresin.network/).
 
 ## Active Projects 
 - [chat_app: A group effort to build a chat app and learn as we go.](https://github.com/Adventures-In/chat_app) 
