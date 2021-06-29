@@ -1,4 +1,4 @@
-# Adventures-In
+# adventures-in
 Information for projects in the Adventures-In organisation.
 
 Join us at a [Meetup](https://www.meetup.com/Adventures-in-Flutter-Firebase) or chat on our [Discourse](https://discourse.adventuresin.network/).
