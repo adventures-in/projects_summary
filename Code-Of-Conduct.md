@@ -1,6 +1,6 @@
 # Code of conduct
 
-> The following is heavily inspired by [flutter/Code of conduct](https://github.com/flutter/flutter/blob/master/CODE_OF_CONDUCT.md)
+> The following is heavily inspired by Flutter's [Code of conduct](https://github.com/flutter/flutter/blob/master/CODE_OF_CONDUCT.md)
 
 We expect everyone to act professionally and respectfully, and we expect our social spaces to be safe and dignified environments.
 
