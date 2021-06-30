@@ -1,0 +1,41 @@
+// Create a Dart Functions Framework project using the generator
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Create Dart Functions Framework project",
+      "type": "shell",
+      "command": "mkdir",
+      "args": [
+        "${input:projectName}",
+        "&&",
+        "cd",
+        "${input:projectName}",
+        "&&",
+        "dartfn",
+        "generate",
+        "${input:projectType}"
+      ],
+      "problemMatcher": []
+    }
+  ],
+  "inputs": [
+    {
+      "type": "pickString",
+      "id": "projectType",
+      "description": "What type of project do you want to create?\nhelloworld - A sample 'Hello, World!' Functions Framework project.\njson       - A sample Functions Framework project for handling JSON.\ncloudevent - A sample Functions Framework project for handling a cloudevent.",
+      "options": [
+        "helloworld",
+        "json",
+        "cloudevent", 
+      ],
+      "default": "component"
+    },
+    {
+      "type": "promptString",
+      "id": "projectName",
+      "description": "Name your project.",
+      "default": "hello_dart_functions_framework"
+    }
+  ]
+}
