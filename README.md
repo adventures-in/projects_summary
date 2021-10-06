@@ -1,14 +1,13 @@
 # adventures-in
-Information for projects in the Adventures-In organisation.
+Information for the Adventures-In community.
 
-Join us at a [Meetup](https://www.meetup.com/Adventures-in-Flutter-Firebase) or chat on our [Discourse](https://discourse.adventuresin.network/).
+Join us at a [Meetup](https://www.meetup.com/Adventures-in-Flutter-Firebase) or chat on our [Discord]() (to be released soon, for now you can get an invite at a Meetup).
 
 ## Active Projects
 
 ### [curatable](https://github.com/adventures-in/curatable)
 
 *Curating news from noisy feeds.*
-- a
 
 ## Backburner Projects
 
@@ -16,8 +15,13 @@ Join us at a [Meetup](https://www.meetup.com/Adventures-in-Flutter-Firebase) or 
 - [openapi_client_builder: Code generation for creating a client from openapi specs, with dartlang/build.](https://github.com/Adventures-In/openapi_client_builder)
 
 ## Member's Projects 
+
 - [nickmeinhold/crowdleague: Crowdsource your sports leagues.](https://github.com/nickmeinhold/crowdleague) 
 - [tamari-gray/niira](https://github.com/tamari-gray/niira)
+
+## Enspyrco Projects
+
+The [enspyrco/monorepo](https://github.com/enspyrco/monorepo) holds the tools we use to build & improve adventuring!
 
 ## Currently Inactive (feel free to take over!) 
 - [podcustard: Enjoy your podcasts right here.](https://github.com/Adventures-In/podcustard) 
