@@ -3,8 +3,15 @@ Information for projects in the Adventures-In organisation.
 
 Join us at a [Meetup](https://www.meetup.com/Adventures-in-Flutter-Firebase) or chat on our [Discourse](https://discourse.adventuresin.network/).
 
-## Active Projects 
-- [flireator: A project creation tool for Flutter projects with a Firebase backend, stored on GitHub.](https://github.com/Adventures-In/flireator)
+## Active Projects
+
+### [curatable](https://github.com/adventures-in/curatable)
+
+*Curating news from noisy feeds.*
+- a
+
+## Backburner Projects
+
 - [image_resizer: Replicating the image resizing Firebase extension.](https://github.com/Adventures-In/image_resizer)
 - [openapi_client_builder: Code generation for creating a client from openapi specs, with dartlang/build.](https://github.com/Adventures-In/openapi_client_builder)
 
