@@ -32,4 +32,14 @@ The [enspyrco/monorepo](https://github.com/enspyrco/monorepo) holds the tools we
 - [Tech-World: A project to help with organising collaboration.](https://github.com/Adventures-In/Tech-World) 
   - team: [Tech World · Discussion](https://github.com/orgs/Adventures-In/teams/tech-world)
 - [ptv_clone: A clone of the PTV app, in Flutter.](https://github.com/Adventures-In/ptv_clone)
-  - team: [PTV Clone · Discussion](https://github.com/orgs/Adventures-In/teams/ptv-clone) 
+  - team: [PTV Clone · Discussion](https://github.com/orgs/Adventures-In/teams/ptv-clone)
+
+## Share your Project
+
+Entirely optional but if you have a public project that's open to taking contributions and you may like to:
+- add it to the Discord server:
+  1. post in Discord with the project name and repo address
+  2. we'll create a category for the project with channels 'chat' and 'updates' and give you a webhook that you can setup to post updates (eg. [for github](https://gist.github.com/jagrosh/5b1761213e33fc5b54ec7f6379034a22))
+- add it to the Adventures-In GitHub org
+  1. ask in Discord
+  2. we'll create a repo for you
