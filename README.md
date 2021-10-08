@@ -1,5 +1,6 @@
-# adventures-in
-Information for the Adventures-In community.
+# projects
+
+Shared projects by the Adventures-In community.
 
 Join us at a [Meetup](https://www.meetup.com/Adventures-in-Flutter-Firebase) or chat on our [Discord]() (to be released soon, for now you can get an invite at a Meetup).
 
@@ -12,6 +13,10 @@ Join us at a [Meetup](https://www.meetup.com/Adventures-in-Flutter-Firebase) or 
 ### [curatable](https://github.com/adventures-in/curatable)
 
 *Curating news from noisy feeds.*
+- Dart backend with Cloud Run
+- Using the http package to consume the Reddit API
+- Saving to Firestore from the backend with googleapis package
+- (WIP) Cards to visualise news items with swipe to curate
 
 ### [publish_new_user_data_firebase_extension](https://github.com/adventures-in/publish_new_user_data_firebase_extension)
 
@@ -24,6 +29,10 @@ Join us at a [Meetup](https://www.meetup.com/Adventures-in-Flutter-Firebase) or 
 ### [devtools_adventure](https://github.com/adventures-in/devtools_adventure) (WIP)
 
 *A set of Flutter apps with various issues requiring DevTools to track down and solve the problems. Put up a PR with the solution to have your progress accredited.*
+
+### [quiz_questions](https://github.com/adventures-in/quiz_questions)
+
+*Create quizzes with a drag & drop UI.*
 
 ## Backburner Projects
 
