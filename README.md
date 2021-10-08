@@ -4,6 +4,8 @@ Shared projects by the Adventures-In community.
 
 Join us at a [Meetup](https://www.meetup.com/Adventures-in-Flutter-Firebase) or chat on our [Discord]() (to be released soon, for now you can get an invite at a Meetup).
 
+Check out the [Adventures](https://adventures-in.notion.site/adventures-in/Adventures-2bfd1f73cd674836b5ba5ba4931ad372) page for more adventuring ideas.
+
 ## Active
 
 ### [enspyrco/monorepo](https://github.com/enspyrco/monorepo)
