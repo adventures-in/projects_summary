@@ -5,23 +5,40 @@ Join us at a [Meetup](https://www.meetup.com/Adventures-in-Flutter-Firebase) or 
 
 ## Active Projects
 
+### [enspyrco/monorepo](https://github.com/enspyrco/monorepo)
+
+*A monorepo for the tools we use to build & improve adventuring!*
+
 ### [curatable](https://github.com/adventures-in/curatable)
 
 *Curating news from noisy feeds.*
 
+### [publish_new_user_data_firebase_extension](https://github.com/adventures-in/publish_new_user_data_firebase_extension)
+
+*A Firebase extension for publishing user data to a Pub/Sub topic on account creation.*
+
+### [on_user_creation_microservice](https://github.com/adventures-in/on_user_creation_microservice)
+
+*A Dart microservice subscribed to user data from account creation, saves events to Firestore.*
+
+### [devtools_adventure](https://github.com/adventures-in/devtools_adventure) (WIP)
+
+*A set of Flutter apps with various issues requiring DevTools to track down and solve the problems. Put up a PR with the solution to have your progress accredited.*
+
 ## Backburner Projects
 
-- [image_resizer: Replicating the image resizing Firebase extension.](https://github.com/Adventures-In/image_resizer)
-- [openapi_client_builder: Code generation for creating a client from openapi specs, with dartlang/build.](https://github.com/Adventures-In/openapi_client_builder)
+### [image_resizer](https://github.com/Adventures-In/image_resizer)
+
+*Replicating the image resizing Firebase extension.*
+
+### [openapi_client_builder](https://github.com/Adventures-In/openapi_client_builder)
+
+*Code generation for creating a client from openapi specs, with dartlang/build.*
 
 ## Member's Projects 
 
 - [nickmeinhold/crowdleague: Crowdsource your sports leagues.](https://github.com/nickmeinhold/crowdleague) 
 - [tamari-gray/niira](https://github.com/tamari-gray/niira)
-
-## Enspyrco Projects
-
-The [enspyrco/monorepo](https://github.com/enspyrco/monorepo) holds the tools we use to build & improve adventuring!
 
 ## Currently Inactive (feel free to take over!) 
 - [podcustard: Enjoy your podcasts right here.](https://github.com/Adventures-In/podcustard) 
