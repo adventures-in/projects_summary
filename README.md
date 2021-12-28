@@ -12,6 +12,10 @@ Check out the [Adventures](https://adventures-in.notion.site/adventures-in/Adven
 
 *A monorepo for the tools we use to build & improve adventuring!*
 
+### [meeting-scheduler](https://github.com/adventures-in/meeting_scheduler)
+
+*Find a good meeting time across multiple timezones.*
+
 ### [curatable](https://github.com/adventures-in/curatable)
 
 *Curating news from noisy feeds.*
